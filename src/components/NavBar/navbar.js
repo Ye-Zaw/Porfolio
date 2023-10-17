@@ -49,7 +49,7 @@ const NavBar = () => {
           offset={-100}
           duration={500}
           className="desktopMenuListItem">
-          Clients
+          Languages
         </Link>
       </div>
       <button
